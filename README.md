@@ -116,3 +116,10 @@ Submitted to **USDC Agent Hackathon 2026**
 ---
 
 **Built with ❤️ for the OpenClaw ecosystem**
+
+## Quickstart
+
+```bash
+# TODO: agrega pasos de instalacion/ejecucion
+```
+
